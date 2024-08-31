@@ -20,7 +20,7 @@
 				*{
 					margin: 0px;
 					padding: 0px;
-					color: #bbb;
+					/* color: #bbb; */
 				}
 				.container{
 					display: flex;
@@ -32,6 +32,7 @@
 					border-radius: 10px;
 					/* border: 6px solid #005F75; */
 					padding: 10px;
+					color: white;
 				}
 				.main_{
 					margin: 10px;
