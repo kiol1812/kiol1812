@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-		<img src="profile.svg" width="800" height="400" alt="Made with SVG">
+        <a href="">
+		    <img src="profile.svg" width="800" height="400" alt="Made with SVG">
+        </a>
 	<br>
 </div>
 

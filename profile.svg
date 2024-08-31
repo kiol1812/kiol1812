@@ -20,7 +20,7 @@
 				*{
 					margin: 0px;
 					padding: 0px;
-					/* color: #005F75; */
+					color: #bbb;
 				}
 				.container{
 					display: flex;
