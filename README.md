@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<style>
+	<!-- <style>
 		.folders{
 			width: 300px;
 			height: 100%;
@@ -49,27 +49,26 @@ Here are some ideas to get you started:
 			height: auto;
 			width: 100%;
 		}
-	</style>
+	</style> -->
 	<br>
 	<img src="profile.svg" width="200" height="50" alt="Made with SVG">
-	<div class="main_">
-		<div class="folders">
-			<div class="folder">
-				<a href="https://github.com/kiol1812/kiol1812/tree/main/Folder/Protifolio">
-					<img src="Protfolio.svg" width="130" height="100" alt="Made with SVG" />
-				</a>
-			</div>
-			<div class="folder">
-				<a href="https://github.com/kiol1812/kiol1812/tree/main/Folder/Research">
-					<img src="Research.svg" width="130" height="100" alt="Made with SVG" />
-				</a>
-			</div>
-		</div>
-		<div class="description">
-			<p>🌱 I’m currently learning rust🦀 and NLP.</p>
-			<p>⚡ This is made with svg.</p>
-		</div>
-	</div>
 	<br>
 </div>
+<div class="main_">
+	<div class="folders">
+		<div class="folder">
+			<a href="https://github.com/kiol1812/kiol1812/tree/main/Folder/Protifolio">
+				<img src="Protfolio.svg" width="130" height="100" alt="Made with SVG" />
+			</a>
+		</div>
+		<div class="folder">
+			<a href="https://github.com/kiol1812/kiol1812/tree/main/Folder/Research">
+				<img src="Research.svg" width="130" height="100" alt="Made with SVG" />
+			</a>
+		</div>
+	</div>
+</div>
+
+- 🌱 I’m currently learning rust🦀 and NLP.
+- ⚡ This is made with svg.
 
