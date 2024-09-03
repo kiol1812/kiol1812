@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 	<img src="icons/raspi.svg" height="30" width="30">
 </p>
 
-### Other
+### Others
 <p>
 	<img src="icons/p5js.svg" height="30" width="30">
 	<img src="icons/arduino.svg" height="30" width="30">
