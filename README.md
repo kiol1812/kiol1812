@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<img src="profile.svg" width="200" height="50" alt="Made with SVG">
+	<img src="profile.svg" width="200" height="60" alt="Made with SVG">
 	<br>
 </div>
+<br>
 <a href="https://kiol1812.github.io/static_web_pages">
 	<img src="Protfolio.svg" align="right"  width="130" height="100" alt="Made with SVG" />
 </a>
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/kiol1812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiol001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://www.pinterest.com/kiol1812/"><img align="center" src="icons/pinterest.svg" height="30" width="40" alt="pinterest" /></a>
+<a href="https://play.picoctf.org/users/kiol"><img align="center" src="icons/picoCTF.png" height="30" width="30" alt="pinterest" /></a>
 </p>
 
 <!-- <details >
@@ -87,7 +89,7 @@ Here are some ideas to get you started:
 	<img src="icons/raspi.svg" height="30" width="30">
 </p>
 
-### Other
+### Others
 <p>
 	<img src="icons/p5js.svg" height="30" width="30">
 	<img src="icons/arduino.svg" height="30" width="30">

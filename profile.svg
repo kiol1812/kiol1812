@@ -24,7 +24,7 @@
 					width: 100%;
 					border-radius: 10px;
 					/* border: 6px solid #005F75; */
-					padding: 10px;
+					/* padding: 10px; */
 					color: white;
 				}
 				.waving{
