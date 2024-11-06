@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <a href="https://kiol1812.github.io/static_web_pages">
-	<img src="Protfolio.svg" align="right"  width="130" height="100" alt="Made with SVG" />
+	<img src="Portfolio.svg" align="right"  width="130" height="100" alt="Made with SVG" />
 </a>
 <a href="https://github.com/orgs/kiol1812-s-Research/repositories">
 	<img src="Research.svg" align="right"  width="130" height="100" alt="Made with SVG" />
@@ -49,56 +49,105 @@ Here are some ideas to get you started:
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiol1812&bg_color=0b244b&color=9294dd&line=a1b5e2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiol1812&bg_color=0b244b&color=9294dd&line=a1b5e2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiol1812&show_icons=true&locale=en&layout=compact" alt="kiol1812" />
-
-
-### Languages
-<p>
-	<img src="icons/java.svg" height="30" width="30">
-	<img src="icons/ts.svg" height="30" width="30">
-	<img src="icons/js.svg" height="30" width="30">
-	<img src="icons/cpp.svg" height="30" width="30">
-	<img src="icons/py.svg" height="30" width="30">
-	<img src="icons/rust.svg" height="30" width="30">
-</p>
-
-### Full Stack
-<p>
-	<img src="icons/react.svg" height="30" width="30">
-	<img src="icons/nextjs.svg" height="30" width="30">
-	<img src="icons/nodejs.svg" height="30" width="30">
-	<img src="icons/prisma.svg" height="30" width="30">
-	<img src="icons/SQLite.svg" height="30" width="30">
-	<img src="icons/npm.svg" height="30" width="30">
-	<img src="icons/yarn.svg" height="30" width="30">
-	<img src="icons/html.svg" height="30" width="30">
-	<img src="icons/css.svg" height="30" width="30">
-</p>
-
-### Workspace
-<p>
-	<img src="icons/windows.svg" height="30" width="30">
-	<img src="icons/vscode.svg" height="30" width="30">
-	<img src="icons/obsidian.svg" height="30" width="30">
-	<img src="icons/notion.svg" height="30" width="30">
-	<img src="icons/Illustrator.svg" height="30" width="30">
-	<img src="icons/postman.svg" height="30" width="30">
-	<img src="icons/arch.svg" height="30" width="30">
-	<img src="icons/raspi.svg" height="30" width="30">
-</p>
-
-### Others
-<p>
-	<img src="icons/p5js.svg" height="30" width="30">
-	<img src="icons/arduino.svg" height="30" width="30">
-	<img src="icons/opencv.svg" height="30" width="30">
-	<img src="icons/md.svg" height="30" width="30">
-	<img src="icons/latex.svg" height="30" width="30">
-	<img src="icons/discordjs.svg" height="30" width="30">
-	<img src="icons/git.svg" height="30" width="30">
-	<img src="icons/unity.svg" height="30" width="30">
-</p>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiol1812&show_icons=true&locale=en&layout=compact" alt="kiol1812" /> -->
 
 
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+			.scroll-container {
+				width: 100%;
+				overflow: hidden;
+				position: relative;
+			}
+			.scroll-content {
+				display: flex;
+				gap: 20px;
+				animation: scroll 20s linear infinite;
+			}
+			.item {
+				border-radius: 8px;
+				white-space: nowrap;
+			}
+			@keyframes scroll {
+				0% {
+					transform: translateX(0);
+				}
+				100% {
+					transform: translateX(-194%);
+				}
+			}
+			</style>
+			<div class="scroll-container">
+				<div class="scroll-content">
+					<img class="item" src="icons/java.svg" height="30" width="30">
+					<img class="item" src="icons/ts.svg" height="30" width="30">
+					<img class="item" src="icons/js.svg" height="30" width="30">
+					<img class="item" src="icons/cpp.svg" height="30" width="30">
+					<img class="item" src="icons/py.svg" height="30" width="30">
+					<img class="item" src="icons/rust.svg" height="30" width="30">
+					<img src="icons/react.svg" height="30" width="30">
+					<img src="icons/nextjs.svg" height="30" width="30">
+					<img src="icons/nodejs.svg" height="30" width="30">
+					<img src="icons/prisma.svg" height="30" width="30">
+					<img src="icons/SQLite.svg" height="30" width="30">
+					<img src="icons/npm.svg" height="30" width="30">
+					<img src="icons/yarn.svg" height="30" width="30">
+					<img src="icons/html.svg" height="30" width="30">
+					<img src="icons/css.svg" height="30" width="30">
+					<img src="icons/windows.svg" height="30" width="30">
+					<img src="icons/vscode.svg" height="30" width="30">
+					<img src="icons/obsidian.svg" height="30" width="30">
+					<img src="icons/notion.svg" height="30" width="30">
+					<img src="icons/Illustrator.svg" height="30" width="30">
+					<img src="icons/postman.svg" height="30" width="30">
+					<img src="icons/arch.svg" height="30" width="30">
+					<img src="icons/raspi.svg" height="30" width="30">
+					<img src="icons/p5js.svg" height="30" width="30">
+					<img src="icons/arduino.svg" height="30" width="30">
+					<img src="icons/opencv.svg" height="30" width="30">
+					<img src="icons/md.svg" height="30" width="30">
+					<img src="icons/latex.svg" height="30" width="30">
+					<img src="icons/discordjs.svg" height="30" width="30">
+					<img src="icons/git.svg" height="30" width="30">
+					<img src="icons/unity.svg" height="30" width="30">
+					<!--  -->
+					<img class="item" src="icons/java.svg" height="30" width="30">
+					<img class="item" src="icons/ts.svg" height="30" width="30">
+					<img class="item" src="icons/js.svg" height="30" width="30">
+					<img class="item" src="icons/cpp.svg" height="30" width="30">
+					<img class="item" src="icons/py.svg" height="30" width="30">
+					<img class="item" src="icons/rust.svg" height="30" width="30">
+					<img src="icons/react.svg" height="30" width="30">
+					<img src="icons/nextjs.svg" height="30" width="30">
+					<img src="icons/nodejs.svg" height="30" width="30">
+					<img src="icons/prisma.svg" height="30" width="30">
+					<img src="icons/SQLite.svg" height="30" width="30">
+					<img src="icons/npm.svg" height="30" width="30">
+					<img src="icons/yarn.svg" height="30" width="30">
+					<img src="icons/html.svg" height="30" width="30">
+					<img src="icons/css.svg" height="30" width="30">
+					<img src="icons/windows.svg" height="30" width="30">
+					<img src="icons/vscode.svg" height="30" width="30">
+					<img src="icons/obsidian.svg" height="30" width="30">
+					<img src="icons/notion.svg" height="30" width="30">
+					<img src="icons/Illustrator.svg" height="30" width="30">
+					<img src="icons/postman.svg" height="30" width="30">
+					<img src="icons/arch.svg" height="30" width="30">
+					<img src="icons/raspi.svg" height="30" width="30">
+					<img src="icons/p5js.svg" height="30" width="30">
+					<img src="icons/arduino.svg" height="30" width="30">
+					<img src="icons/opencv.svg" height="30" width="30">
+					<img src="icons/md.svg" height="30" width="30">
+					<img src="icons/latex.svg" height="30" width="30">
+					<img src="icons/discordjs.svg" height="30" width="30">
+					<img src="icons/git.svg" height="30" width="30">
+					<img src="icons/unity.svg" height="30" width="30">
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>

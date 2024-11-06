@@ -4,6 +4,6 @@
     <rect x="22" y="18" width="90" height="22" fill="#999"/>
     <rect x="18" y="22" width="90" height="18" fill="#ddd"/>
     <line x1="5" y1="40" x2="125" y2="40" stroke="#253745" stroke-width="4" />
-	<text x="47" y="62" font-size="20" text-anchor="middle" fill="#ddd">Protfolio</text>
+	<text x="47" y="62" font-size="20" text-anchor="middle" fill="#ddd">Portfolio</text>
 	<text x="20" y="80" font-size="12" text-anchor="middle" fill="#ddd">1</text>
 </svg>
