@@ -25,22 +25,26 @@ Here are some ideas to get you started:
 	<br>
 </div>
 <br>
-<a href="https://kiol1812.github.io/static_web_pages">
+<!-- <a href="https://kiol1812.github.io/static_web_pages">
 	<img src="Portfolio.svg" align="right"  width="130" height="100" alt="Made with SVG" />
 </a>
 <a href="https://github.com/orgs/kiol1812-s-Research/repositories">
 	<img src="Research.svg" align="right"  width="130" height="100" alt="Made with SVG" />
-</a>
+</a> -->
 
 <!-- ⚡ This is made with svg. -->
-🌱 I’m currently learning rust🦀 and NLP.  
+<!-- 🌱 I’m currently learning rust🦀 and NLP.   -->
 <p align="left">
+&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/kiol1812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiol001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://www.pinterest.com/kiol1812/"><img align="center" src="icons/pinterest.svg" height="30" width="40" alt="pinterest" /></a>
 <a href="https://play.picoctf.org/users/kiol"><img align="center" src="icons/picoCTF.png" height="30" width="30" alt="pinterest" /></a>
+<img src="Marquee.svg" align="left" width="200" height="35" alt="Made with SVG">
 </p>
-<img src="Marquee.svg" width="250" height="200" alt="Made with SVG">
+
+--- 
+![LeetCode Stats](https://leetcard.jacoblin.cool/kiol001?theme=nord&font=Noto%20Sans%20Mono&ext=heatmap)
 
 <!-- <details >
 	<summary><img src="icons/gmail.svg" width="22" /></summary>
